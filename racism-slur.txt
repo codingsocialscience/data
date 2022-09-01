@@ -1,0 +1,3 @@
+@person Do not be such a whimp,0,True,False
+You are all n****r,50,True,False
+@person You are such a n****r,50,False,True

@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "text": "This post has no Likes",
+        "likes": []
+    },
+    {
+        "id": 2,
+        "text": "This post has two Likes",
+        "likes": [
+            "John Smith",
+            "Jane Smith"
+        ]
+    }
+]

@@ -1,0 +1,89 @@
+name,birth_year,death_year,reign_start,reign_end
+Augustus,-63,14,-27,14
+Tiberius,-42,37,14,37
+Caligula,12,41,37,41
+Claudius,-10,54,41,54
+Nero,37,68,54,68
+Galba,-3,69,68,69
+Otho,32,69,69,69
+Vitellius,15,69,69,69
+Vespasian,9,79,69,79
+Titus,39,81,79,81
+Domitian,51,96,81,96
+Nerva,30,98,96,98
+Trajan,53,117,98,117
+Hadrian,76,138,117,138
+Antoninus Pius,86,161,138,161
+Marcus Aurelius,121,180,161,180
+Lucius Verus,130,169,161,169
+Commodus,161,192,192,192
+Pertinax,126,193,193,193
+Didius Julianus,133,193,193,193
+Septimius Severus,145,211,193,211
+Caracalla,188,217,211,217
+Geta,189,212,211,212
+Macrinus,165,218,217,218
+Diadumenian,208,218,218,218
+Elagabalus,204,222,218,222
+Severus Alexander,208,235,222,235
+Maximinus Thrax,173,238,235,238
+Gordian I,159,238,238,238
+Gordian II,192,238,238,238
+Pupienus,165,238,238,238
+Balbinus,178,238,238,238
+Gordian III,225,244,238,244
+Philip the Arab,204,249,244,249
+Philip II,237,249,247,249
+Decius,201,251,249,251
+Herennius Etruscus,227,251,251,251
+Hostilian,230,251,251,251
+Trebonianus Gallus,206,253,251,253
+Volusianus,230,253,251,251
+Aemilianus,207,253,253,253
+Valerian,199,260,253,260
+Gallienus,218,268,253,268
+Salonius,242,260,260,260
+Claudius Gothicus,214,270,268,270
+Aurelian,214,275,270,275
+Tacitus,200,276,275,276
+Florianus,232,276,276,276
+Probus,232,282,276,282
+Carus,222,283,282,283
+Carinus,250,285,283,285
+Numerian,253,284,283,284
+Diocletian,243,311,286,305
+Maximian,250,310,286,305
+Galerius,250,311,305,311
+Constantius I,250,306,305,306
+Constantine the Great,272,337,306,337
+Maxentius,276,312,306,312
+Licinius,265,325,308,324
+Maximinus Daia,270,313,310,313
+Constantine II,316,340,306,337
+Constantius II,317,361,306,337
+Constans I,320,350,337,350
+Julian,331,363,361,363
+Jovian,331,364,363,364
+Valentinian I,321,375,364,375
+Valens,328,378,364,378
+Gratian,359,383,364,375
+Valentinian II,371,392,375,392
+Theodosius I,347,395,379,395
+Magnus Maximus,335,388,383,388
+Honorius,384,423,393,423
+Valentinian III,419,455,425,455
+Petronius Maximus,397,455,455,455
+Avitus,395,457,455,456
+Majorian,420,461,457,461
+Libus Severus,420,465,461,465
+Anthemius,420,472,467,472
+Olybrius,431,472,472,472
+Julius Nepos,430,480,474,475
+Romulus Augustus,460,507,475,476
+Arcadius,377,408,383,408
+Theodosius II,401,450,402,450
+Marcian,392,457,450,457
+Leo I,401,474,457,474
+Leo II,467,474,474,474
+Zeno,425,491,474,491
+Anastasius I Dicorus,431,518,491,518

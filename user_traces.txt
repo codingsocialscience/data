@@ -1,0 +1,500 @@
+user001,type letterh
+user007,click link
+user003,click menu
+user004,click main link
+user001,click main link
+user004,type letterH
+user007,click menu
+user002,click link
+user007,type letterm
+user004,type letterz
+user006,click main link
+user004,type letterL
+user011,click link
+user003,type letteri
+user004,click figure
+user001,click menu
+user008,click main link
+user007,type letterm
+user006,click figure
+user001,type letterv
+user005,type letterK
+user007,type letterP
+user011,type lettern
+user002,type letterl
+user009,type letterf
+user003,click link
+user010,type letterS
+user002,type letters
+user005,click link
+user008,click banner
+user008,type letterY
+user001,click banner
+user002,click main link
+user004,type letterk
+user003,type letterd
+user008,type letterx
+user010,type letterO
+user010,click link
+user008,click menu
+user008,click banner
+user008,type letterw
+user004,click link
+user007,type letterC
+user003,click main link
+user002,click menu
+user004,click banner
+user003,type letterJ
+user009,type lettero
+user009,click menu
+user008,type letterT
+user008,type letteri
+user006,click menu
+user006,click banner
+user007,click link
+user011,click figure
+user004,click main link
+user007,type lettern
+user007,type letterI
+user010,click banner
+user001,click figure
+user010,type letterq
+user009,click figure
+user006,click figure
+user001,type lettery
+user004,click main link
+user006,type lettert
+user006,click main link
+user002,click menu
+user008,type letterC
+user011,type letterQ
+user003,type letterc
+user002,type letterj
+user005,type lettera
+user001,type lettery
+user005,type lettert
+user004,type letterz
+user004,click menu
+user003,type letterg
+user011,click link
+user006,type lettert
+user011,type letterH
+user005,type letterY
+user007,type letterR
+user004,click figure
+user001,click main link
+user001,type letterR
+user006,type letterg
+user009,click banner
+user004,type letterW
+user007,click link
+user005,type letterZ
+user001,type lettero
+user009,type letterI
+user003,click link
+user008,type letterC
+user005,type letterW
+user008,click banner
+user004,click link
+user008,type letterd
+user010,type letteru
+user010,type letterm
+user007,click link
+user011,type letterc
+user007,type letterW
+user007,click menu
+user006,type letterp
+user009,type letterY
+user002,type letterd
+user003,type letterT
+user004,click figure
+user008,click banner
+user006,type letterA
+user006,type letterM
+user008,type letterv
+user002,click main link
+user005,click link
+user002,type letterr
+user011,type letterB
+user004,click menu
+user002,type letterZ
+user009,type letterE
+user006,click figure
+user008,click link
+user005,type letteru
+user005,click banner
+user002,click menu
+user009,click banner
+user003,type letterY
+user007,type letterI
+user006,type letterV
+user002,click main link
+user003,type letterI
+user003,type letterD
+user003,click figure
+user009,click menu
+user006,type letterF
+user004,type letterv
+user001,type letterx
+user011,click main link
+user008,type letterk
+user004,click figure
+user010,type letterw
+user003,click menu
+user005,click link
+user002,click link
+user006,click main link
+user002,type letterA
+user007,type letterH
+user001,type letterz
+user002,click link
+user007,click menu
+user005,click link
+user006,click menu
+user003,type letters
+user002,type letterp
+user004,type letterX
+user006,type letterB
+user011,click banner
+user001,click main link
+user010,click main link
+user010,click banner
+user011,click figure
+user004,type letterD
+user003,type letterD
+user006,click banner
+user011,type letterQ
+user005,type letterv
+user011,type letterm
+user007,type letterK
+user009,click link
+user008,type letterH
+user010,type letterA
+user002,type letterF
+user009,click link
+user004,click figure
+user005,type letterr
+user002,type letterp
+user003,type letterM
+user004,type letterl
+user011,type lettero
+user003,type letterv
+user001,type letterr
+user011,click link
+user007,type letterc
+user008,click figure
+user002,type letterO
+user011,type letterX
+user005,click link
+user006,type letterk
+user010,type letterx
+user005,click link
+user003,type letterK
+user002,click main link
+user008,click banner
+user009,type lettern
+user005,click link
+user010,type letterH
+user001,click link
+user010,click main link
+user005,click figure
+user009,click link
+user002,click main link
+user006,type letterX
+user005,type letterh
+user006,click main link
+user007,type lettero
+user011,type letterY
+user011,click menu
+user009,click link
+user010,type letterM
+user009,click menu
+user004,click link
+user008,click menu
+user010,click menu
+user007,type letterf
+user005,type letterv
+user009,type letterQ
+user009,type letterG
+user006,click figure
+user009,click main link
+user006,click main link
+user004,click figure
+user003,click banner
+user010,click banner
+user001,type letterQ
+user005,type lettery
+user005,type lettern
+user006,click link
+user011,type letterK
+user006,type letterI
+user003,click menu
+user008,click link
+user009,type letterw
+user009,type letterM
+user005,type letterw
+user009,type letterL
+user010,click menu
+user010,click figure
+user010,type lettere
+user009,type letteru
+user006,type lettera
+user007,click link
+user002,type lettern
+user007,type letterT
+user008,type letterN
+user006,click link
+user010,click main link
+user010,click main link
+user007,click figure
+user010,type letterR
+user005,click link
+user009,click figure
+user006,type letterR
+user001,type letterq
+user003,click banner
+user010,click banner
+user007,click menu
+user006,click banner
+user011,click figure
+user011,click figure
+user010,click menu
+user009,type letterm
+user008,click figure
+user001,type letterG
+user006,type letterl
+user005,type letterg
+user003,type letterb
+user004,type lettera
+user001,type letterF
+user001,type letters
+user008,click banner
+user002,click main link
+user001,type letterE
+user004,type letterT
+user006,type lettery
+user003,type letterF
+user006,click banner
+user009,type letterm
+user004,type letterT
+user005,type letterY
+user005,type letterI
+user001,type letterr
+user004,click menu
+user003,click banner
+user010,type letterZ
+user001,type letterV
+user001,click main link
+user001,type letterB
+user001,type lettery
+user003,type letterD
+user010,type letterX
+user005,type letterw
+user003,click banner
+user010,click main link
+user011,click menu
+user008,click figure
+user009,type letterr
+user009,click banner
+user009,click figure
+user008,click banner
+user010,type letterV
+user008,type letteri
+user004,type letterA
+user001,type letterd
+user011,type letterP
+user001,type letterG
+user004,click main link
+user007,click figure
+user004,type lettero
+user004,click link
+user007,click main link
+user002,type letterE
+user003,type letterl
+user005,type letterb
+user009,type letterw
+user004,click figure
+user009,click menu
+user008,type letterY
+user007,type letterF
+user011,click link
+user009,click banner
+user009,click link
+user007,type lettere
+user003,click figure
+user010,click main link
+user003,type letterg
+user007,click banner
+user011,click menu
+user002,type letterH
+user002,type letterk
+user010,type letterS
+user001,click figure
+user010,click menu
+user008,type letterA
+user010,click link
+user001,type letterJ
+user006,type letterq
+user001,type letterf
+user009,type lettera
+user003,type letterJ
+user007,click link
+user006,type letters
+user006,click banner
+user006,type letterK
+user001,type letterO
+user011,click menu
+user005,type letterC
+user008,type letterh
+user004,click menu
+user010,click main link
+user009,click figure
+user006,click figure
+user008,click main link
+user006,type letterD
+user010,type letterx
+user003,type lettern
+user003,click banner
+user011,type letterC
+user009,click banner
+user001,type letterg
+user008,type letterG
+user003,type letterP
+user009,click link
+user002,click menu
+user002,click banner
+user008,type letterU
+user001,click main link
+user008,click figure
+user008,click link
+user003,click figure
+user003,click main link
+user003,type letterl
+user004,type letterD
+user006,type letterG
+user007,click figure
+user005,type letterf
+user010,type letterz
+user001,click main link
+user006,type letterE
+user005,click link
+user006,click main link
+user006,type letterm
+user003,type lettera
+user011,type letterO
+user008,type letteru
+user005,type lettere
+user001,click main link
+user001,type letterp
+user002,click menu
+user007,type letteri
+user004,click figure
+user007,click banner
+user006,click link
+user005,type letterd
+user007,click menu
+user005,click main link
+user009,click main link
+user001,click banner
+user010,click banner
+user003,click main link
+user008,type lettere
+user003,click figure
+user007,click main link
+user004,type letterc
+user001,click figure
+user011,type letterR
+user008,click banner
+user010,click main link
+user002,click menu
+user010,click banner
+user011,type letterO
+user001,click menu
+user003,type letterN
+user011,type letterT
+user004,type letterv
+user006,type letterL
+user011,type letteri
+user007,type letterE
+user007,click menu
+user003,click figure
+user006,click figure
+user005,click menu
+user001,click main link
+user008,type letterh
+user005,type letterB
+user011,type letterv
+user005,click main link
+user007,type letters
+user002,click figure
+user003,type letterl
+user006,click main link
+user007,click figure
+user011,type lettera
+user010,click link
+user008,type letterR
+user011,type letterX
+user005,type letterU
+user009,click menu
+user002,click menu
+user009,type letteri
+user002,click menu
+user006,click main link
+user011,click figure
+user008,click link
+user001,click link
+user006,click figure
+user010,click figure
+user007,click menu
+user001,type letterr
+user005,click banner
+user006,type letterg
+user004,click link
+user002,type letters
+user006,click figure
+user004,click main link
+user009,click menu
+user003,type letterf
+user007,click menu
+user001,type letterq
+user008,type letterj
+user006,type letterB
+user011,type letterG
+user001,click banner
+user005,type letterl
+user010,click main link
+user007,type letterm
+user011,type lettern
+user010,type letterL
+user003,type letterl
+user004,type letterF
+user002,type lettery
+user010,click menu
+user002,click figure
+user010,type lettern
+user011,click banner
+user011,type letterX
+user010,type letteru
+user007,type letterl
+user004,type letterU
+user002,type lettery
+user008,click link
+user010,type letterj
+user004,type letterC
+user009,click banner
+user006,click banner
+user006,type letterR
+user007,click figure
+user009,click banner
+user007,type letters
+user007,type letterc
+user005,type letterc
+user003,type letterv
+user005,click menu
+user001,click main link
+user001,click main link
+user002,click figure
+user010,click main link
+user005,click banner
+user003,click main link
+user011,type letterY
